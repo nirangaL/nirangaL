@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niranga
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning drupal,Angular and NodeJs
+- 🌱 I’m currently learning Angular and NodeJs
 - 📫 Reach me via nirangawh@hotmail.com
 
 <!---
