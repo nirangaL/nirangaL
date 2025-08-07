@@ -54,6 +54,14 @@
 
 ---
 
+### 🔗 Connect with Me
+
+<p align="left">
+  📫 Email: <a href="mailto:nirangawh@hotmail.com">nirangawh@hotmail.com</a>  
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/niranga-lakshan/">linkedin.com/in/niranga-lakshan</a>  
+  🌐 Portfolio: <a href="https://nirangal.github.io/">nirangal.github.io</a>  
+</p>
+
 <p>
   ⚡ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </p>
