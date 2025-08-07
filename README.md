@@ -44,22 +44,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💡 What I Enjoy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirangaL&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirangaL&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  📫 Email: <a href="mailto:nirangawh@hotmail.com">nirangawh@hotmail.com</a>  
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/niranga-lakshan/">linkedin.com/in/niranga-lakshan</a>  
-  🌐 Portfolio: <a href="https://nirangal.github.io/">nirangal.github.io</a>  
-</p>
+- 🧪 Exploring new frameworks, libraries, and dev tools
+- ☁️ Deploying and testing projects on cloud platforms like AWS
+- 🧩 Working on side projects that solve real-world problems
+- 📚 Reading about system design, architecture, and performance
+- 🎯 Always open to trying something new — tech never stops evolving!
 
 ---
 
