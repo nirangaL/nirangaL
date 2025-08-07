@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niranga</h1>
-<h3 align="center">Full-stack Developer | Tech Enthusiast | Cloud Learner</h3>
+<h1>Hi 👋, I'm Niranga</h1>
+<h3>Full-stack Developer | Tech Enthusiast | Cloud Learner</h3>
 
 ---
 
@@ -54,6 +54,6 @@
 
 ---
 
-<p align="center">
+<p>
   ⚡ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </p>
